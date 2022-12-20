@@ -1,0 +1,34 @@
+
+
+body {font:84% Helvetica,Tahoma,sans-serif; line-height:1.4em;}
+a {color:#2a5a7a; text-decoration:none;}
+a:hover {text-decoration:underline;}
+p, ul,ol,dl {margin:0 0 20px 10px; font-size:12pt;}
+h1 {color:#888; font-size:3.2em;}
+h1 a {color:#2a5a7a; text-transform:none;}
+h2 {font-size:2.2em; color:#333; margin:0 0 10px 5px; border-bottom:0px solid #eee; padding-bottom:10px;}
+h3 {font-size:1.6em; margin:0 0 10px 0; border-bottom:2px solid #eee;}
+h1,h2,h3 {font-weight:400; line-height:1em; font-family:Georgia, serif;}
+
+
+
+
+
+/* Main container */
+#gradbg {
+          background: rgb(255,255,255);
+          background: linear-gradient(to bottom, rgba(255,255,255,0) 20%, rgba(255,255,255,1)), linear-gradient(90deg, rgba(255,255,255,1) 10%, rgba(184,0,33,0.75)  20%, rgba(184,0,33,0.75) 80%, rgba(255,255,255,1) 90%);
+          height: 805px;
+  
+}
+
+#titlecard {
+  margin:20px auto; width:960px; background:#DDDDDD; border-style: groove; border-width: thick; margin-bottom: 0px;
+}
+
+
+/* Main container */
+#maincolumn {margin:20px auto; margin-top:0px; width:960px; background:#fff; border-style: groove; border-width: thick; }
+
+
+
